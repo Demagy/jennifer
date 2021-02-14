@@ -25,3 +25,8 @@ p {
   position: absolute;
   right: 30%;
 }
+
+.footer {
+  margin-top: 80%;
+  font-size: 1.5rem;
+}
